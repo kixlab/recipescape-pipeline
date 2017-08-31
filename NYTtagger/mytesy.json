@@ -1,0 +1,85 @@
+[
+    {
+        "input": "2 1/4 cups all-purpose flour", 
+        "display": "<span class='qty'>2 1/4</span><span class='unit'>cups</span><span class='name'>all-purpose flour</span>", 
+        "name": "all-purpose flour", 
+        "unit": "cup", 
+        "qty": "2 1/4"
+    }, 
+    {
+        "input": "1 teaspoon baking soda", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>baking soda</span>", 
+        "name": "baking soda", 
+        "unit": "teaspoon", 
+        "qty": "1"
+    }, 
+    {
+        "input": "1 teaspoon salt", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>", 
+        "name": "salt", 
+        "unit": "teaspoon", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "ground", 
+        "name": "cinnamon", 
+        "qty": "1", 
+        "input": "1 teaspoon ground cinnamon", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cinnamon</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "comment": "at room temperature", 
+        "name": "unsalted butter", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 cup unsalted butter, at room temperature", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>unsalted butter</span><span class='other'>,</span><span class='comment'>at room temperature</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "packed", 
+        "name": "brown sugar", 
+        "qty": "1", 
+        "input": "1 cup packed brown sugar", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>packed</span><span class='name'>brown sugar</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "granulated", 
+        "name": "sugar", 
+        "qty": "1/2", 
+        "input": "1/2 cup granulated sugar", 
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>granulated</span><span class='name'>sugar</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "large", 
+        "input": "2 large eggs", 
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>eggs</span>", 
+        "name": "eggs", 
+        "qty": "2"
+    }, 
+    {
+        "input": "1 1/2 teaspoons vanilla extract", 
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>vanilla extract</span>", 
+        "name": "vanilla extract", 
+        "unit": "teaspoon", 
+        "qty": "1 1/2"
+    }, 
+    {
+        "input": "1 cup milk chocolate chips", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>milk chocolate chips</span>", 
+        "name": "milk chocolate chips", 
+        "unit": "cup", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "semi-sweet chips", 
+        "name": "chocolate", 
+        "qty": "1", 
+        "input": "1 cup semi-sweet chocolate chips", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>semi-sweet</span><span class='name'>chocolate</span><span class='comment'>chips</span>", 
+        "unit": "cup"
+    }
+]

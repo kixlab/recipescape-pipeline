@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: ingredient-phrase-tagger
+Version: 0.0.0.dev0
+Summary: Extract structured data from ingredient phrases using conditional random fields
+Home-page: UNKNOWN
+Author: The New York Times Company
+Author-email: UNKNOWN
+License: Apache 2.0
+Description: UNKNOWN
+Platform: UNKNOWN
